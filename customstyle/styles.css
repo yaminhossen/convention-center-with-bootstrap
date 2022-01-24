@@ -1,0 +1,13 @@
+/* font using */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* custom css */
+.textcolor{ 
+    color: #908ea3;
+}
+.head{
+    position: sticky;
+    left: 400px;;
+    top: 33px;
+}
